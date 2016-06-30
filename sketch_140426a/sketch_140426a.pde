@@ -5,7 +5,7 @@ Game game;
 
 
 void setup() {
-  size(W+Z, H+Z);
+  size(665, 385);
   game = new Game();
 }
 
